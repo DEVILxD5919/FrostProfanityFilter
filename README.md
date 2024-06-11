@@ -60,3 +60,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ---
 
 Thank you for using FrostProfanityFilter! We hope it helps maintain a positive and respectful environment on your PocketMine-MP server.
+[![](https://poggit.pmmp.io/shield.state/FrostProfanityFilter)](https://poggit.pmmp.io/p/FrostProfanityFilter)
+<a href="https://poggit.pmmp.io/p/FrostProfanityFilter"><img src="https://poggit.pmmp.io/shield.state/FrostProfanityFilter"></a>
